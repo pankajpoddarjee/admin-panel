@@ -25,7 +25,7 @@ class cronLog extends Command
      */
     public function handle()
     {
-        echo "pankaj";
+        //echo "pankaj";
         \Log::info("i am in side log");
     }
 }
